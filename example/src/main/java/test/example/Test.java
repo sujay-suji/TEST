@@ -10,6 +10,8 @@ public class Test {
 System.out.println("KP = KaPi");
 System.out.println("SUJI");
 
+System.out.println("Friends");
+
 	}
 
 }
