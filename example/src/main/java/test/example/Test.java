@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("Test");
 		
 		System.out.println("KP");
+System.out.println("SUJI");
 
 	}
 
